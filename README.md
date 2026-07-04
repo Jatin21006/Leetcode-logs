@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin21006/Leetcode-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
