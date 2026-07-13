@@ -14,16 +14,26 @@ public:
     vector<int> preorderTraversal(TreeNode* root) {
         if(!root)return {};
         vector<int> ans;
-        stack<TreeNode*> st;
-        st.push(root);
-        while(true){
-            if(st.empty())break;
-            TreeNode* node=st.top();
-            ans.push_back(node->val);
-            st.pop();
-            if(node->right)st.push(node->right);
-            if(node->left)st.push(node->left);
+        TreeNode* curr=root;
+        while(curr){
+            if(curr->left){
+                TreeNode* thread=curr->left;
+                while(thread->right && thread->right!=curr)thread=thread->right;
 
+                if(thread->right==curr){
+                    thread->right=NULL;
+                    curr=curr->right;
+                }
+                else{
+                    ans.push_back(curr->val);
+                    thread->right=curr;
+                    curr=curr->left;
+                }
+            }
+            else{
+                ans.push_back(curr->val);
+                curr=curr->right;
+            }
         }
         return ans;
         
