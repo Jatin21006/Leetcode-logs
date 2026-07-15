@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
+| [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Greedy
 |  |
@@ -113,4 +115,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin21006/Leetcode-logs/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
