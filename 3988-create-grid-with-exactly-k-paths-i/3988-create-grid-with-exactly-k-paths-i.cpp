@@ -22,8 +22,9 @@ public:
                 if(i==0 && j==0 )continue;
                 if(i==m-1 && j==n-1)continue;
                 Grid[i][j]='#';
-                if(paths(Grid,m,n)<k)Grid[i][j]='.';
-                else if(paths(Grid,m,n)==k)return Grid;
+                int path=paths(Grid,m,n);
+                if(path<k)Grid[i][j]='.';
+                else if(path==k)return Grid;
             }
         }
         return {};
