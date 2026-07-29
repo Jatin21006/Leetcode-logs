@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Jatin21006/Leetcode-logs/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jatin21006/Leetcode-logs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Binary Tree
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Jatin21006/Leetcode-logs/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Jatin21006/Leetcode-logs/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jatin21006/Leetcode-logs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Matrix
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Jatin21006/Leetcode-logs/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jatin21006/Leetcode-logs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Linked List
 |  |
