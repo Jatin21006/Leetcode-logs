@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Jatin21006/Leetcode-logs/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin21006/Leetcode-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/0797-all-paths-from-source-to-target) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
