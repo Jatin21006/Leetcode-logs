@@ -1,14 +1,15 @@
 class Solution {
 public:
     int fib(int n) {
-        vector<int> fibo(n+1);
         if(n==0)return 0;
-        fibo[0]=0;
-        fibo[1]=1;
+        int prev=0;
+        int curr=1;
         for(int i=2;i<=n;i++){
-            fibo[i]=fibo[i-1]+fibo[i-2];
+            int temp=curr;
+            curr+=prev;
+            prev=temp;
         }
-        return fibo[n];
+        return curr;
         
     }
 };
