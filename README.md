@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
+| [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Jatin21006/Leetcode-logs/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jatin21006/Leetcode-logs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Jatin21006/Leetcode-logs/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jatin21006/Leetcode-logs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Linked List
@@ -230,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Jatin21006/Leetcode-logs/tree/master/0509-fibonacci-number) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
