@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Jatin21006/Leetcode-logs/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin21006/Leetcode-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Jatin21006/Leetcode-logs/tree/master/0091-decode-ways) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Jatin21006/Leetcode-logs/tree/master/0174-dungeon-game) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
