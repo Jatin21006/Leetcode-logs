@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Jatin21006/Leetcode-logs/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin21006/Leetcode-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jatin21006/Leetcode-logs/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
