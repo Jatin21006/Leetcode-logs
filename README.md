@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Greedy
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Jatin21006/Leetcode-logs/tree/master/0174-dungeon-game) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Jatin21006/Leetcode-logs/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jatin21006/Leetcode-logs/tree/master/1926-nearest-exit-from-entrance-in-maze) |
