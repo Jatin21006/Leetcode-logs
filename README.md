@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0064-minimum-path-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jatin21006/Leetcode-logs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Jatin21006/Leetcode-logs/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin21006/Leetcode-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jatin21006/Leetcode-logs/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0145-binary-tree-postorder-traversal) |
@@ -262,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jatin21006/Leetcode-logs/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Jatin21006/Leetcode-logs/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
