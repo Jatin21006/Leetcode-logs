@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Jatin21006/Leetcode-logs/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Jatin21006/Leetcode-logs/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Jatin21006/Leetcode-logs/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Jatin21006/Leetcode-logs/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Jatin21006/Leetcode-logs/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/Jatin21006/Leetcode-logs/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Jatin21006/Leetcode-logs/tree/master/0174-dungeon-game) |
+| [0221-maximal-square](https://github.com/Jatin21006/Leetcode-logs/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
