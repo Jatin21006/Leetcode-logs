@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jatin21006/Leetcode-logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Jatin21006/Leetcode-logs/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jatin21006/Leetcode-logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/Jatin21006/Leetcode-logs/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Jatin21006/Leetcode-logs/tree/master/0198-house-robber) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jatin21006/Leetcode-logs/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Jatin21006/Leetcode-logs/tree/master/0016-3sum-closest) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jatin21006/Leetcode-logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jatin21006/Leetcode-logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
