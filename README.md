@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0001-two-sum) |
+| [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Jatin21006/Leetcode-logs/tree/master/0091-decode-ways) |
+| [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin21006/Leetcode-logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin21006/Leetcode-logs/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Jatin21006/Leetcode-logs/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/0797-all-paths-from-source-to-target) |
@@ -278,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin21006/Leetcode-logs/tree/master/0084-largest-rectangle-in-histogram) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
