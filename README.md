@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Jatin21006/Leetcode-logs/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jatin21006/Leetcode-logs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Jatin21006/Leetcode-logs/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Linked List
 |  |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jatin21006/Leetcode-logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jatin21006/Leetcode-logs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Enumeration
+|  |
+| ------- |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Jatin21006/Leetcode-logs/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 <!---LeetCode Topics End-->
