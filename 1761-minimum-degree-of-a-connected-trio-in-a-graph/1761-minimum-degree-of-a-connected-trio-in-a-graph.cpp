@@ -13,7 +13,6 @@ public:
             isConnected[it[0]].insert(it[1]);
         }
 
-        set<vector<int>> trios;
         for(int i=1;i<=n;i++){
             if(adjList[i].size()<2)continue;
             for(int u=0;u<adjList[i].size()-1;u++){
