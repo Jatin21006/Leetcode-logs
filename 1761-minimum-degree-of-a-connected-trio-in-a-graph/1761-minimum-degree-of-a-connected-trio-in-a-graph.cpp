@@ -16,7 +16,7 @@ public:
         for(int i=1;i<=n;i++){
             if(adjList[i].size()<2)continue;
             for(int u=0;u<adjList[i].size()-1;u++){
-                for(int v=1;v<adjList[i].size();v++){
+                for(int v=u+1;v<adjList[i].size();v++){
                     //check if u and v are connected
                     int n1=adjList[i][u];
                     int n2=adjList[i][v];
