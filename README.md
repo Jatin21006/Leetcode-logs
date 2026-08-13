@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jatin21006/Leetcode-logs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Jatin21006/Leetcode-logs/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Jatin21006/Leetcode-logs/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jatin21006/Leetcode-logs/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Jatin21006/Leetcode-logs/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Jatin21006/Leetcode-logs/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Greedy
 |  |
 | ------- |
