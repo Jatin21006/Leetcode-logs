@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0001-two-sum) |
+| [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Jatin21006/Leetcode-logs/tree/master/0091-decode-ways) |
+| [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Jatin21006/Leetcode-logs/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin21006/Leetcode-logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -303,4 +306,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Jatin21006/Leetcode-logs/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
