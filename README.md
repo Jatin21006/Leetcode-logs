@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jatin21006/Leetcode-logs/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jatin21006/Leetcode-logs/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Jatin21006/Leetcode-logs/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jatin21006/Leetcode-logs/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
