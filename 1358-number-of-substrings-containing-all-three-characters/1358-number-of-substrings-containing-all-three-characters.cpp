@@ -1,19 +1,20 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int ans=0,i=0,j=0;
-        vector<int> ch_freq(3,0);
-        int n=s.size();
-        while(i<n-2 && j<n){
-            ch_freq[s[j]-'a']++;
-            while(ch_freq[0] && ch_freq[1] && ch_freq[2]){
-                ans+=n-j;
-                ch_freq[s[i]-'a']--;
-                i++;
+        unordered_map<char,int> mp;//lastoccurence
+        int L=0;
+        int ans=0;
+        for(int R=0;R<s.size();R++){
+            mp[s[R]]=R;
+            if(mp.size()==3){
+                int minIndex=INT_MAX;
+                for(auto it:mp)minIndex=min(minIndex,it.second);
+                ans+=minIndex+1;
+
             }
-            j++;
+
         }
         return ans;
-
+        
     }
 };
