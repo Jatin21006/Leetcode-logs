@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jatin21006/Leetcode-logs/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin21006/Leetcode-logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jatin21006/Leetcode-logs/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 ## Sorting
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Jatin21006/Leetcode-logs/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin21006/Leetcode-logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jatin21006/Leetcode-logs/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Prefix Sum
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin21006/Leetcode-logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jatin21006/Leetcode-logs/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Tree
 |  |
 | ------- |
