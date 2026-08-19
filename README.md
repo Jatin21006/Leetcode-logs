@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jatin21006/Leetcode-logs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Jatin21006/Leetcode-logs/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Jatin21006/Leetcode-logs/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jatin21006/Leetcode-logs/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
