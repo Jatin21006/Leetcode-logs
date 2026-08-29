@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jatin21006/Leetcode-logs/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Jatin21006/Leetcode-logs/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/Jatin21006/Leetcode-logs/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Jatin21006/Leetcode-logs/tree/master/0084-largest-rectangle-in-histogram) |
