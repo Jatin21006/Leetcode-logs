@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jatin21006/Leetcode-logs/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Jatin21006/Leetcode-logs/tree/master/0016-3sum-closest) |
+| [0045-jump-game-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Jatin21006/Leetcode-logs/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0063-unique-paths-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jatin21006/Leetcode-logs/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0063-unique-paths-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jatin21006/Leetcode-logs/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Jatin21006/Leetcode-logs/tree/master/0134-gas-station) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin21006/Leetcode-logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
