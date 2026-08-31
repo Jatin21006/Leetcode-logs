@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jatin21006/Leetcode-logs/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Jatin21006/Leetcode-logs/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jatin21006/Leetcode-logs/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Jatin21006/Leetcode-logs/tree/master/1109-corporate-flight-bookings) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jatin21006/Leetcode-logs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jatin21006/Leetcode-logs/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Enumeration
