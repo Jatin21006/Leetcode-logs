@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Jatin21006/Leetcode-logs/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Jatin21006/Leetcode-logs/tree/master/0274-h-index) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Jatin21006/Leetcode-logs/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/Jatin21006/Leetcode-logs/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Jatin21006/Leetcode-logs/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
