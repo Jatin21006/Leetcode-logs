@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Jatin21006/Leetcode-logs/tree/master/0443-string-compression) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jatin21006/Leetcode-logs/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Jatin21006/Leetcode-logs/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Jatin21006/Leetcode-logs/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin21006/Leetcode-logs/tree/master/0022-generate-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
