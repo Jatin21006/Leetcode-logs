@@ -1,12 +1,12 @@
 class Solution {
 public:
-    static bool comp(const vector<int>& a, const vector<int>& b){
-            if(a[0]!=b[0])return a[0]<b[0];
-            return a[1]<b[1];
-    }
+    
     int findLongestChain(vector<vector<int>>& pairs) {
         
-        sort(pairs.begin(),pairs.end(),comp);
+        sort(pairs.begin(),pairs.end(),[](const vector<int>& a, const vector<int>& b){
+            if(a[0]!=b[0])return a[0]<b[0];
+            return a[1]<b[1];
+    });
         int n=pairs.size();
         vector<int> dp(n,1);
         for(int i=1;i<n;i++){
