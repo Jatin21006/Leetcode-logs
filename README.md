@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jatin21006/Leetcode-logs/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jatin21006/Leetcode-logs/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Jatin21006/Leetcode-logs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3875-construct-uniform-parity-array-i) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Jatin21006/Leetcode-logs/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Jatin21006/Leetcode-logs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
