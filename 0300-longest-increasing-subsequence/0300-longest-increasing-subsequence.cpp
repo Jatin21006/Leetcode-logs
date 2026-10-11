@@ -8,7 +8,7 @@ public:
             auto it=lower_bound(tails.begin(),tails.end(),nums[i]);
             if(it==tails.end())tails.push_back(nums[i]);
             else{
-                tails[it-tails.begin()]=nums[i];
+                *it=nums[i];
             }
 
         }
