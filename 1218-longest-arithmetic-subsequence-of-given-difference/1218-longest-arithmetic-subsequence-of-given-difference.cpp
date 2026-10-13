@@ -11,7 +11,7 @@ public:
                 dp[i]=a+1;
                 mpp[arr[i]]=dp[i];
             }
-            else mpp[arr[i]]=1;
+            else mpp[arr[i]]=max(mpp[arr[i]],1);
         }
         return *max_element(dp.begin(),dp.end());
 
