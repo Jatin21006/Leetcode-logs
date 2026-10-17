@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jatin21006/Leetcode-logs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/1027-longest-arithmetic-subsequence) |
 | [1035-uncrossed-lines](https://github.com/Jatin21006/Leetcode-logs/tree/master/1035-uncrossed-lines) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jatin21006/Leetcode-logs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Jatin21006/Leetcode-logs/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Jatin21006/Leetcode-logs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Jatin21006/Leetcode-logs/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
