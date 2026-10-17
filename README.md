@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Jatin21006/Leetcode-logs/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Jatin21006/Leetcode-logs/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Jatin21006/Leetcode-logs/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0416-partition-equal-subset-sum) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin21006/Leetcode-logs/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Jatin21006/Leetcode-logs/tree/master/0547-number-of-provinces) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Jatin21006/Leetcode-logs/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -470,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
