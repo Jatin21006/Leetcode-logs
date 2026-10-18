@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Jatin21006/Leetcode-logs/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jatin21006/Leetcode-logs/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Jatin21006/Leetcode-logs/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jatin21006/Leetcode-logs/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Jatin21006/Leetcode-logs/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Jatin21006/Leetcode-logs/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Jatin21006/Leetcode-logs/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Greedy
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Jatin21006/Leetcode-logs/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Jatin21006/Leetcode-logs/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/0215-kth-largest-element-in-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin21006/Leetcode-logs/tree/master/0543-diameter-of-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Jatin21006/Leetcode-logs/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin21006/Leetcode-logs/tree/master/0543-diameter-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Jatin21006/Leetcode-logs/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jatin21006/Leetcode-logs/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/Jatin21006/Leetcode-logs/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -357,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Jatin21006/Leetcode-logs/tree/master/0547-number-of-provinces) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Topological Sort
 |  |
 | ------- |
@@ -371,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jatin21006/Leetcode-logs/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Recursion
 |  |
 | ------- |
@@ -387,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -492,4 +501,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0518-coin-change-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
