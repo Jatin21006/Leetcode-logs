@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jatin21006/Leetcode-logs/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Jatin21006/Leetcode-logs/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Jatin21006/Leetcode-logs/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Jatin21006/Leetcode-logs/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0416-partition-equal-subset-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Jatin21006/Leetcode-logs/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Jatin21006/Leetcode-logs/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/Jatin21006/Leetcode-logs/tree/master/0354-russian-doll-envelopes) |
 | [0377-combination-sum-iv](https://github.com/Jatin21006/Leetcode-logs/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0416-partition-equal-subset-sum) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Jatin21006/Leetcode-logs/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin21006/Leetcode-logs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Jatin21006/Leetcode-logs/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Jatin21006/Leetcode-logs/tree/master/0547-number-of-provinces) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Jatin21006/Leetcode-logs/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Jatin21006/Leetcode-logs/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0518-coin-change-ii) |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Jatin21006/Leetcode-logs/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Jatin21006/Leetcode-logs/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Jatin21006/Leetcode-logs/tree/master/0518-coin-change-ii) |
 ## Binary Search Tree
 |  |
