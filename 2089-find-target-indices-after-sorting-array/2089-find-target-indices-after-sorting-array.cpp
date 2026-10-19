@@ -4,8 +4,14 @@ public:
         int n=nums.size();
         sort(nums.begin(),nums.end());
         vector<int> ans;
-        for(int i=0;i<n;i++){
-            if(nums[i]==target)ans.push_back(i);
+        auto l=lower_bound(nums.begin(),nums.end(),target);
+        auto u=upper_bound(nums.begin(),nums.end(),target);
+        if(l==u)return {};
+        int low=l-nums.begin();
+        int high=u-nums.begin();
+        while(low<high){
+            ans.push_back(low);
+            low++;
         }
         return ans;
         
