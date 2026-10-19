@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Jatin21006/Leetcode-logs/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2140-solving-questions-with-brainpower](https://github.com/Jatin21006/Leetcode-logs/tree/master/2140-solving-questions-with-brainpower) |
+| [2466-count-ways-to-build-good-strings](https://github.com/Jatin21006/Leetcode-logs/tree/master/2466-count-ways-to-build-good-strings) |
 ## Greedy
 |  |
 | ------- |
