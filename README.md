@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/Jatin21006/Leetcode-logs/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jatin21006/Leetcode-logs/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2140-solving-questions-with-brainpower](https://github.com/Jatin21006/Leetcode-logs/tree/master/2140-solving-questions-with-brainpower) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jatin21006/Leetcode-logs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jatin21006/Leetcode-logs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Jatin21006/Leetcode-logs/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Jatin21006/Leetcode-logs/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2140-solving-questions-with-brainpower](https://github.com/Jatin21006/Leetcode-logs/tree/master/2140-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
