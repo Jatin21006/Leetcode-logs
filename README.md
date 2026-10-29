@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/Jatin21006/Leetcode-logs/tree/master/0934-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jatin21006/Leetcode-logs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Jatin21006/Leetcode-logs/tree/master/1004-max-consecutive-ones-iii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/Jatin21006/Leetcode-logs/tree/master/0934-shortest-bridge) |
 | [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Jatin21006/Leetcode-logs/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jatin21006/Leetcode-logs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/Jatin21006/Leetcode-logs/tree/master/0934-shortest-bridge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Jatin21006/Leetcode-logs/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Jatin21006/Leetcode-logs/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Jatin21006/Leetcode-logs/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Jatin21006/Leetcode-logs/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
+| [0934-shortest-bridge](https://github.com/Jatin21006/Leetcode-logs/tree/master/0934-shortest-bridge) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Jatin21006/Leetcode-logs/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Jatin21006/Leetcode-logs/tree/master/1926-nearest-exit-from-entrance-in-maze) |
