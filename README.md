@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Jatin21006/Leetcode-logs/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3953-maximum-score-with-co-prime-element](https://github.com/Jatin21006/Leetcode-logs/tree/master/3953-maximum-score-with-co-prime-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jatin21006/Leetcode-logs/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3953-maximum-score-with-co-prime-element](https://github.com/Jatin21006/Leetcode-logs/tree/master/3953-maximum-score-with-co-prime-element) |
 ## String
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3875-construct-uniform-parity-array-i) |
+| [3953-maximum-score-with-co-prime-element](https://github.com/Jatin21006/Leetcode-logs/tree/master/3953-maximum-score-with-co-prime-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3953-maximum-score-with-co-prime-element](https://github.com/Jatin21006/Leetcode-logs/tree/master/3953-maximum-score-with-co-prime-element) |
 ## Graph Theory
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Jatin21006/Leetcode-logs/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3953-maximum-score-with-co-prime-element](https://github.com/Jatin21006/Leetcode-logs/tree/master/3953-maximum-score-with-co-prime-element) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -462,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/Jatin21006/Leetcode-logs/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jatin21006/Leetcode-logs/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3953-maximum-score-with-co-prime-element](https://github.com/Jatin21006/Leetcode-logs/tree/master/3953-maximum-score-with-co-prime-element) |
 ## Bit Manipulation
 |  |
 | ------- |
