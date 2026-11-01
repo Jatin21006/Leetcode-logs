@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Jatin21006/Leetcode-logs/tree/master/2140-solving-questions-with-brainpower) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jatin21006/Leetcode-logs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Jatin21006/Leetcode-logs/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jatin21006/Leetcode-logs/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3387-maximize-amount-after-two-days-of-conversions](https://github.com/Jatin21006/Leetcode-logs/tree/master/3387-maximize-amount-after-two-days-of-conversions) |
 | [3665-twisted-mirror-path-count](https://github.com/Jatin21006/Leetcode-logs/tree/master/3665-twisted-mirror-path-count) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Jatin21006/Leetcode-logs/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jatin21006/Leetcode-logs/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jatin21006/Leetcode-logs/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Jatin21006/Leetcode-logs/tree/master/0274-h-index) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jatin21006/Leetcode-logs/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Jatin21006/Leetcode-logs/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jatin21006/Leetcode-logs/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Jatin21006/Leetcode-logs/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Jatin21006/Leetcode-logs/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jatin21006/Leetcode-logs/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
