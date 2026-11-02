@@ -107,17 +107,7 @@ public:
             else {
                 cost = max(1, badCount);
             }
-            // int cost;
-
-            // if (x == 1) {
-            //     cost = 0;
-            // }
-            // else if (freq[x] > 0) {
-            //     cost = badCount - 1;
-            // }
-            // else {
-            //     cost = max(1, badCount);
-            // }
+           
 
             // Step 8: Calculate score
             int score = x - cost;
