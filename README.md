@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jatin21006/Leetcode-logs/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0904-fruit-into-baskets) |
+| [0924-minimize-malware-spread](https://github.com/Jatin21006/Leetcode-logs/tree/master/0924-minimize-malware-spread) |
 | [0931-minimum-falling-path-sum](https://github.com/Jatin21006/Leetcode-logs/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Jatin21006/Leetcode-logs/tree/master/0934-shortest-bridge) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jatin21006/Leetcode-logs/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Jatin21006/Leetcode-logs/tree/master/0433-minimum-genetic-mutation) |
 | [0740-delete-and-earn](https://github.com/Jatin21006/Leetcode-logs/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Jatin21006/Leetcode-logs/tree/master/0904-fruit-into-baskets) |
+| [0924-minimize-malware-spread](https://github.com/Jatin21006/Leetcode-logs/tree/master/0924-minimize-malware-spread) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Jatin21006/Leetcode-logs/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Jatin21006/Leetcode-logs/tree/master/1027-longest-arithmetic-subsequence) |
 | [1122-relative-sort-array](https://github.com/Jatin21006/Leetcode-logs/tree/master/1122-relative-sort-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Jatin21006/Leetcode-logs/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/Jatin21006/Leetcode-logs/tree/master/0934-shortest-bridge) |
 | [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Jatin21006/Leetcode-logs/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Jatin21006/Leetcode-logs/tree/master/0924-minimize-malware-spread) |
 | [0934-shortest-bridge](https://github.com/Jatin21006/Leetcode-logs/tree/master/0934-shortest-bridge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Jatin21006/Leetcode-logs/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Jatin21006/Leetcode-logs/tree/master/1162-as-far-from-land-as-possible) |
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Jatin21006/Leetcode-logs/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Jatin21006/Leetcode-logs/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Jatin21006/Leetcode-logs/tree/master/0841-keys-and-rooms) |
+| [0924-minimize-malware-spread](https://github.com/Jatin21006/Leetcode-logs/tree/master/0924-minimize-malware-spread) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Jatin21006/Leetcode-logs/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1192-critical-connections-in-a-network](https://github.com/Jatin21006/Leetcode-logs/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Jatin21006/Leetcode-logs/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -403,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Jatin21006/Leetcode-logs/tree/master/0547-number-of-provinces) |
+| [0924-minimize-malware-spread](https://github.com/Jatin21006/Leetcode-logs/tree/master/0924-minimize-malware-spread) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jatin21006/Leetcode-logs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Jatin21006/Leetcode-logs/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Topological Sort
