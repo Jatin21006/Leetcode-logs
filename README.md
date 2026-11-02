@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jatin21006/Leetcode-logs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Jatin21006/Leetcode-logs/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Jatin21006/Leetcode-logs/tree/master/0022-generate-parentheses) |
+| [0065-valid-number](https://github.com/Jatin21006/Leetcode-logs/tree/master/0065-valid-number) |
 | [0091-decode-ways](https://github.com/Jatin21006/Leetcode-logs/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/Jatin21006/Leetcode-logs/tree/master/0187-repeated-dna-sequences) |
